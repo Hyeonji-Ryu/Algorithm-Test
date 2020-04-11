@@ -1,2 +1,2 @@
 # Algorithms_with_Python
-Just practice solving algorithm problems with python
+Just practice solving algorithm problems in python
