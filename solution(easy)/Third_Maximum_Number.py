@@ -15,7 +15,7 @@
 # Input: [2, 2, 3, 1]
 # Output: 1
 # Explanation: Note that the third maximum here means the third maximum distinct number.
-               Both numbers with value 2 are both considered as second maximum.
+             # Both numbers with value 2 are both considered as second maximum.
                
 
 class Solution:
