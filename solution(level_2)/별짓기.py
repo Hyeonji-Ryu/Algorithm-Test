@@ -1,4 +1,4 @@
-# making_stars like that.
+# 특이한 별모양 결과가 나오게 만든 코드
 
 
 
