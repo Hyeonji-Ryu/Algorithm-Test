@@ -6,7 +6,7 @@
 
 
 
-Solution 1: simple
+# Solution 1: simple
 
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
@@ -20,7 +20,7 @@ class Solution:
 
 
 
-Solution 2: Faster than solution 1
+# Solution 2: Faster than solution 1
 
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
