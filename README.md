@@ -16,7 +16,7 @@ Here is a list of coding test sites where i get questions.
 It can be difficult to find particular solution because the folder name doesn't have site information.
 
 그리하여 각 사이트 별 폴더의 이름들을 정리하여 리스트를 만들었습니다.  
-So, I made the list that organized the folder name per site.
+So, I made a list that organized the folder name per site.
 
 해당 리스트는 아래와 같습니다.  
 Here is the list.
