@@ -1,4 +1,4 @@
-# 코딩테스트 뽀개기 프로젝트 (Project for coding test)
+## 코딩테스트 뽀개기 프로젝트 (Project for coding test)
 
 코딩테스트 문제를 제공하는 여러 사이트에서 해결한 문제들의 코드를 업로드하고 있습니다.
 I just upload some solutions of coding test's question.
@@ -10,7 +10,7 @@ Here is a list of coding test sites where i get questions.
 - 프로그래머스 (programmers)
 - leetcode
 
-# 사이트별 난이도
+## 사이트별 난이도
 
 폴더 이름이 사이트별로 나뉘지 않아 어떤 문제의 코드를 찾을 때 어려울 수 있습니다.
 It can be difficult to find particular solution because the folder name doesn't have site information.
