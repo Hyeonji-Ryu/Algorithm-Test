@@ -12,13 +12,13 @@ Here is a list of coding test sites where i get questions.
 
 ## 사이트별 난이도
 
-폴더 이름이 사이트별로 나뉘지 않아 어떤 문제의 코드를 찾을 때 어려울 수 있습니다.
+폴더 이름이 사이트별로 나뉘지 않아 어떤 문제의 코드를 찾을 때 어려울 수 있습니다.  
 It can be difficult to find particular solution because the folder name doesn't have site information.
 
-그리하여 각 사이트 별 폴더의 이름들을 정리하여 리스트를 만들었습니다.
+그리하여 각 사이트 별 폴더의 이름들을 정리하여 리스트를 만들었습니다.  
 So, I made the list that organized the folder name per site.
 
-해당 리스트는 아래와 같습니다.
+해당 리스트는 아래와 같습니다.  
 Here is the list.
 
 - **백준 (Baekjoon)**
