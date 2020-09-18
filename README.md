@@ -21,14 +21,14 @@ So, I made the list that organized the folder name per site.
 해당 리스트는 아래와 같습니다.  
 Here is the list.
 
-- **백준 (Baekjoon)**
+- **백준 (Baekjoon)**  
   soltion(baekjoon)
 
-- **프로그래머스 (programmers)**
-  solution(level_1)
+- **프로그래머스 (programmers)**  
+  solution(level_1)  
   solution(level_2)
 
-- **leetcode**
-  solution(easy)
-  solution(medium)
+- **leetcode**  
+  solution(easy)  
+  solution(medium)  
   solution(hard)
