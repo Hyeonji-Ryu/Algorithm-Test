@@ -9,20 +9,12 @@
 # n은 500,000,000이하의 자연수 입니다.
 
 
-ef solution(n):
+def solution(n):
     
-    num = n
-    count = 1
     ans = ""
     nums = ['4','1','2']
-    
-    for i in range(1,20):
-        if num > 3**i:
-            num = num - 3**i
-            count += 1
-        else: break
-    
-    for _ in range(count):
+        
+    while n > 0:
         rest  = n%3
         n = (n-1)//3
         ans = nums[rest] + ans
