@@ -7,6 +7,6 @@
 
 
 
+
 def solution(arr):
-    temp = list(map(int,list(str(arr))))
-    return arr % sum(temp) == 0
+    return arr % sum(list(map(int,list(str(arr))))) == 0
