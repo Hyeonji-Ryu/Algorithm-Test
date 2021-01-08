@@ -14,7 +14,6 @@
 
 def solution(n, lost, re):
     count = 0
-    
     losts = list(set(lost)-set(re))
     res = list(set(re)-set(lost))
         
