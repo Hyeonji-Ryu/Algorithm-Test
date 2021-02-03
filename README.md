@@ -25,7 +25,7 @@ Here is the list.
   soltion(baekjoon)
 
 - **프로그래머스 (programmers)**  
-  solution(level_1)  
+  solution(level_1)/(all_done)  
   solution(level_2)
 
 - **leetcode**  
