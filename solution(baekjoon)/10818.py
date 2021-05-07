@@ -7,7 +7,14 @@
 # 출력
 # 첫째 줄에 주어진 정수 N개의 최솟값과 최댓값을 공백으로 구분해 출력한다.
 
+# 함수 이용
 T=input()
 lis=list(map(int,input().split()))
 print(min(lis))
 print(max(lis))
+
+# 배열 정렬 후 추출
+T=input()
+lis=sorted(list(map(int,input().split())))
+print(lis[0])
+print(lis[-1])
