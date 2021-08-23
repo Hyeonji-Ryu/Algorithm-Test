@@ -1,4 +1,4 @@
-## 코딩테스트 뽀개기 연습 (A practice for coding test)
+## 코딩테스트 연습 (A practice for coding test)
 
 코딩테스트 문제를 제공하는 여러 사이트에서 해결한 문제들의 코드를 업로드하고 있습니다.  
 I just upload some solutions of coding test's questions.
