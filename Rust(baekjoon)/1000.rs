@@ -12,7 +12,7 @@ use std::io;
 
 fn main() {
     let mut num = String::new();
-    io::stdin().read_line(&mut num).unwrap();
-    let list: Vec<i32> = num.split_whitespace().map(|s| s.parse().expect("")).collect();
+    io::stdin().read_line(&mut num).expect("wrong numbers");
+    let list: Vec<i32> = num.split_whitespace().map(|s| s.parse().expect("parse error")).collect();
     println!("{:}",list[0]+list[1]);
 }
