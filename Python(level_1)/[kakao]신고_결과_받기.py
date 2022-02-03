@@ -36,13 +36,12 @@
 # 1 ≤ k ≤ 200, k는 자연수입니다.
 # return 하는 배열은 id_list에 담긴 id 순서대로 각 유저가 받은 결과 메일 수를 담으면 됩니다.
 
-
 from collections import Counter
 
 def solution(id_list, report, k):
     unique = list(set(report))
     listed = [info.split() for info in unique]
-    warn = Counter([info.split()[1] for info in unique])
+    warn = Counter([num for name, num in listed])
     result = {name:0 for name in id_list}
     stopped = dict(filter(lambda warn:warn[1] >=k, warn.items()))
     
